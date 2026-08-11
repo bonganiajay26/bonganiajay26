@@ -57,7 +57,7 @@ Observability --> Grafana
 AWS · Azure · GCP
 
 **Containers & Orchestration**
-Docker · Kubernetes · EKS · Istio
+Docker · Kubernetes · EKS · Istio AKS GKE OPENSHIFT
 
 **Infrastructure as Code**
 Terraform · Helm · Kustomize
